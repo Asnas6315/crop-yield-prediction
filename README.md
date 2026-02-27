@@ -39,11 +39,3 @@ The model is deployed as an interactive web application using Streamlit.
 - Joblib
 
 ---
-
-## 📂 Project Structure
-crop-yield-prediction/
-│
-├── app.py
-├── crop_model.pkl
-├── model_columns.pkl
-├── requirements.txt
